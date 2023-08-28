@@ -10,7 +10,6 @@
 #'
 #'
 #'@export
-somar <- function(a,b){
-  a+b
+somar <- function(a, b){
+  return(a + b)
 }
-
